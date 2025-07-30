@@ -26,3 +26,4 @@ if st.button("Submit"):
 
     st.write("### LLM Prompt:")
     st.code(llm_prompt)
+    st.code(llm_prompt)
